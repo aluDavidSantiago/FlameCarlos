@@ -1,5 +1,5 @@
 
-# Práctica: Configuración y comprobación de firewall con UFW (Activitats II – Parte 2)
+# Práctica: Configuración y comprobación de firewall con UFW 
 
 ## Entorno de trabajo
 
