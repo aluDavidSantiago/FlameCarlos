@@ -301,7 +301,7 @@ sudo ufw allow from 192.168.56.1 to any port 80
         http://192.168.56.146
 *   Aparece la página por defecto de nginx.
 
-<img src="IMG/19.png" alt="..." width="700" height="auto"> 
+<img src="IMG/20.png" alt="..." width="700" height="auto"> 
 
 ### Explicación
 
@@ -321,7 +321,7 @@ Mostrar todas las reglas activas del firewall como cierre de la práctica.
 sudo ufw status numbered
 ```
 
-<img src="IMG/20.png" alt="..." width="700" height="auto"> 
+<img src="IMG/19.png" alt="..." width="700" height="auto"> 
 
 ### Resultado obtenido
 
