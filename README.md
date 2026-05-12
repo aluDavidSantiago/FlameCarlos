@@ -1,5 +1,5 @@
 
-# Práctica Firewall con UFW – Activitats II (Parte 2)
+# Práctica Firewall con UFW 
 
 ## Descripción
 
